@@ -7,6 +7,8 @@ namespace MyConsole1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            //Next
+            Console.WriteLine("Hello World! by ALGOSUP");
         }
     }
 }
